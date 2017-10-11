@@ -1,1 +1,1 @@
-https://git.heroku.com/mariusgreet.git
+https://mariusgreet.herokuapp.com/
